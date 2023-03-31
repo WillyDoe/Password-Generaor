@@ -1,2 +1,2 @@
 # Password-Generaor
-Password Generaor with different options and security levels
+Password Generator with different options and security levels
